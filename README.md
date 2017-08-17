@@ -5,4 +5,5 @@ A Java Application developed by:
 - Parro, Manuel Lorenzo L.
 - Wenceslao, Luis Paolo D.
 
-## Project Description
+### App Documentation
+Coming soon...
