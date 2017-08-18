@@ -12,4 +12,7 @@ public interface Constants {
         
         public static final String EMPTY_LABEL_TEXT = " ";
         
+        public static final int PRODUCT_IMAGE_WIDTH = 150;
+        public static final int PRODUCT_IMAGE_HEIGHT = PRODUCT_IMAGE_WIDTH;
+        
 }
