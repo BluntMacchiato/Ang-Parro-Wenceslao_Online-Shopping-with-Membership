@@ -19,8 +19,10 @@ public class TheShop_UI extends Program implements Constants {
     private JButton account = new JButton("Account Profile");
     private JButton about = new JButton("About");
     private JButton search = new JButton("Search");
+    private JButton enterItemCode = new JButton("Enter Item Code");
     
     private JTextField searchbar = new JTextField(TEXT_FIELD_SIZE);
+    private JTextField itemcode = new JTextField(TEXT_FIELD_SIZE);
     
     public void init(){
         add(canvas);
@@ -35,7 +37,13 @@ public class TheShop_UI extends Program implements Constants {
         add(searchbar, NORTH);
         add(search, NORTH);
         
+        enterItemCode.setVisible(false);
+        itemcode.setVisible(false);
+        add(itemcode, SOUTH);
+        add(enterItemCode, SOUTH);
+        
         searchbar.addActionListener(this);
+        itemcode.addActionListener(this);
         addActionListeners();
     }
     
@@ -45,9 +53,15 @@ public class TheShop_UI extends Program implements Constants {
     
     public void actionPerformed(ActionEvent e) {
         String enteredItem = searchbar.getText();
+        String enteredCode = itemcode.getText();
         
         if(e.getActionCommand().equals("Home")){
             canvas.removeAll();
+            
+            enterItemCode.setVisible(false);
+            itemcode.setVisible(false);
+            
+            canvas.homePage();
             
             //Fill this in
         }
@@ -55,11 +69,18 @@ public class TheShop_UI extends Program implements Constants {
         else if(e.getActionCommand().equals("Store")){
             canvas.removeAll();
             
-            //Fill this in
+            enterItemCode.setVisible(true);
+            itemcode.setVisible(true);
+            
+             canvas.productPage();
+             canvas.productLayoutTest();
         }
         
         else if(e.getActionCommand().equals("Account Profile")){
             canvas.removeAll();
+            
+            enterItemCode.setVisible(false);
+            itemcode.setVisible(false);
             
             //Fill this in
         }
@@ -67,15 +88,34 @@ public class TheShop_UI extends Program implements Constants {
         else if(e.getActionCommand().equals("About")){
             canvas.removeAll();
             
+            enterItemCode.setVisible(false);
+            itemcode.setVisible(false);
+            
             //Fill this in
         }
         
         else if(e.getActionCommand().equals("Search") && !enteredItem.equals("")) {
             canvas.removeAll();
             
+            enterItemCode.setVisible(true);
+            itemcode.setVisible(true);
+            
             //Fill this in
             
             searchbar.setText(null); //to remove text entered from the search bar after hitting the "search" button
+            
+            canvas.searchResult();
+        }
+        
+        else if(e.getActionCommand().equals("Enter Item Code") && !enteredCode.equals("")) {
+            canvas.removeAll();
+            
+            enterItemCode.setVisible(true);
+            itemcode.setVisible(true);
+            
+            //Fill this in
+            canvas.shoppingCart();
+            itemcode.setText(null); //to remove text entered from the code bar after hitting the "enter item code" button
         }
     }
     
