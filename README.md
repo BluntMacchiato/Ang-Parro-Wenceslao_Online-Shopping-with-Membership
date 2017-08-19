@@ -48,22 +48,22 @@ The project was divided into multiple tasks: designing the program flow, GUI lay
 
  ### IV.            RESULTS AND DISCUSSION
  
->[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 4.1")
 >Screenshot 4.1 - theSHOP User Account Login
 >
->
+>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 4.2")
 >Screenshot 4.2: Screen in creating a new account. Credentials are being asked.
 >
->
+>![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 4.3")
 >Screenshot 4.3: Screen showing successful login.
 >
-> 
+> ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 4.4")
 >Screenshot 4.4: The main screen or the HOME screen of theSHOP.
 >
-> 
+> ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 4.5")
 >Screenshot 4.5: The store screen of theSHOP.
 >
-> 
+> ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot 4.6")
 >Screenshot 4.6:  Screen indicating that item has been added to the shopping cart.
 
 
