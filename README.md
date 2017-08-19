@@ -48,23 +48,23 @@ The project was divided into multiple tasks: designing the program flow, GUI lay
 
  ### IV.            RESULTS AND DISCUSSION
  
-(https://cldup.com/dTxpPi9lDf.thumb.png) 
-Screenshot 4.1 - theSHOP User Account Login
-
-
-Screenshot 4.2: Screen in creating a new account. Credentials are being asked.
-
- 
-Screenshot 4.3: Screen showing successful login.
-
- 
-Screenshot 4.4: The main screen or the HOME screen of theSHOP.
-
- 
-Screenshot 4.5: The store screen of theSHOP.
-
- 
-Screenshot 4.6:  Screen indicating that item has been added to the shopping cart.
+>[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+>Screenshot 4.1 - theSHOP User Account Login
+>
+>
+>Screenshot 4.2: Screen in creating a new account. Credentials are being asked.
+>
+>
+>Screenshot 4.3: Screen showing successful login.
+>
+> 
+>Screenshot 4.4: The main screen or the HOME screen of theSHOP.
+>
+> 
+>Screenshot 4.5: The store screen of theSHOP.
+>
+> 
+>Screenshot 4.6:  Screen indicating that item has been added to the shopping cart.
 
 
  ### V.            CONCLUSION
