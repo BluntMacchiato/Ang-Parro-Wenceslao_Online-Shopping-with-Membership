@@ -1,7 +1,7 @@
 # Final Project in DATASAL & LBYCP12:
 # Online Shopping Java Application
 
-Note: Latest Project File of the Shop is located in Folder "TheShop_mkIII"
+Note: Latest Project File of theShop is located in Folder "TheShop_mkIII"
 
 >Ryan Jasper V. Ang
 >DATASAL-EQ/LBYCP12-EQ1
