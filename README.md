@@ -52,21 +52,26 @@
 >
 >Screenshot 4.1 - theSHOP User Account Login
 >
+>
 >![alt text](https://raw.githubusercontent.com/DLSU-Manila-LBYCP12/Ang-Parro-Wenceslao_Online-Shopping-with-Membership/master/2017-08-19%20TheShop_mkIII%20Screenshots/4.2.png "Screenshot 4.2")
 >
 >Screenshot 4.2: Screen in creating a new account. Credentials are being asked.
+>
 >
 >![alt text](https://raw.githubusercontent.com/DLSU-Manila-LBYCP12/Ang-Parro-Wenceslao_Online-Shopping-with-Membership/master/2017-08-19%20TheShop_mkIII%20Screenshots/4.3.png "Screenshot 4.3")
 >
 >Screenshot 4.3: Screen showing successful login.
 >
+>
 > ![alt text](https://raw.githubusercontent.com/DLSU-Manila-LBYCP12/Ang-Parro-Wenceslao_Online-Shopping-with-Membership/master/2017-08-19%20TheShop_mkIII%20Screenshots/4.4.png "Screenshot 4.4")
 >
 >Screenshot 4.4: The main screen or the HOME screen of theSHOP.
 >
+>
 > ![alt text](https://raw.githubusercontent.com/DLSU-Manila-LBYCP12/Ang-Parro-Wenceslao_Online-Shopping-with-Membership/master/2017-08-19%20TheShop_mkIII%20Screenshots/4.5.png "Screenshot 4.5")
 >
 >Screenshot 4.5: The store screen of theSHOP.
+>
 >
 > ![alt text](https://raw.githubusercontent.com/DLSU-Manila-LBYCP12/Ang-Parro-Wenceslao_Online-Shopping-with-Membership/master/2017-08-19%20TheShop_mkIII%20Screenshots/4.6.png "Screenshot 4.6")
 >
