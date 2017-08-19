@@ -1,31 +1,33 @@
-Final Project in DATASAL & LBYCP12:
-Online Shopping Java Application
+#Final Project in DATASAL & LBYCP12:
+#Online Shopping Java Application
  
-Ryan Jasper V. Ang
-DATASAL-EQ/LBYCP12-EQ1
-B.S. Computer Engineering
-Electronics & Communications Engineering Department
-De La Salle University Manila
-ryan_ang@dlsu.edu.ph
+>Ryan Jasper V. Ang
+>DATASAL-EQ/LBYCP12-EQ1
+>B.S. Computer Engineering
+>Electronics & Communications Engineering Department
+>De La Salle University Manila
+>ryan_ang@dlsu.edu.ph
 
-Manuel Lorenzo L. Parro
-DATASAL-EQ/LBYCP12-EQ1
-B.S. Computer Engineering
-Electronics & Communications Engineering Department
-De La Salle University Manila
-manuel_parro@dlsu.edu.ph
+>Manuel Lorenzo L. Parro
+>DATASAL-EQ/LBYCP12-EQ1
+>B.S. Computer Engineering
+>Electronics & Communications Engineering Department
+>De La Salle University Manila
+>manuel_parro@dlsu.edu.ph
 
-Luis Paolo D. Wenceslao
-DATASAL-EQ/LBYCP12-EQ1
-B.S. Computer Engineering
-Electronics & Communications Engineering Department
-De La Salle University Manila
-luis_wenceslao@dlsu.edu.ph
+>Luis Paolo D. Wenceslao
+>DATASAL-EQ/LBYCP12-EQ1
+>B.S. Computer Engineering
+>Electronics & Communications Engineering Department
+>De La Salle University Manila
+>luis_wenceslao@dlsu.edu.ph
  
  
-Abstract – Abstract Data Structure such as the Array List (static), Linked List (dynamic), Queue, Stacks, Graph were the topics discussed and implemented in the Data Structures and Algorithms (DATASAL) and its corresponding laboratory class (LBYCP12). This documentation tackles the primary functions of the app and on how the different lessons taught in class.
+#Abstract
+- Abstract Data Structure such as the Array List (static), Linked List (dynamic), Queue, Stacks, Graph were the topics discussed and implemented in the Data Structures and Algorithms (DATASAL) and its corresponding laboratory class (LBYCP12). This documentation tackles the primary functions of the app and on how the different lessons taught in class.
  
-Keywords – data structure; array list; linked list; queue; stack; graph; sql; java; 
+#Keywords
+– data structure; array list; linked list; queue; stack; graph; sql; java; 
  
  I.            INTRODUCTION
 
