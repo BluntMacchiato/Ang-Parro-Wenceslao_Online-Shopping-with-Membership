@@ -27,7 +27,7 @@
 - Abstract Data Structure such as the Array List (static), Linked List (dynamic), Queue, Stacks, Graph were the topics discussed and implemented in the Data Structures and Algorithms (DATASAL) and its corresponding laboratory class (LBYCP12). This documentation tackles the primary functions of the app and on how the different lessons taught in class.
  
 ### Keywords
-– data structure; array list; linked list; queue; stack; graph; sql; java; 
+- data structure; array list; linked list; queue; stack; graph; sql; java; 
  
 ### I.            INTRODUCTION
 
@@ -48,7 +48,7 @@ The project was divided into multiple tasks: designing the program flow, GUI lay
 
  ### IV.            RESULTS AND DISCUSSION
  
- 
+(https://cldup.com/dTxpPi9lDf.thumb.png) 
 Screenshot 4.1 - theSHOP User Account Login
 
 
@@ -83,25 +83,25 @@ Lastly but not the least, we would like to thank our parents and family for thei
 
  ### VII.            REFERENCES
  
-[1]	Villman Computers Philippines, Accessed August 17, 2017. at:  http://www.villman.com
-[2]	Best Buy, Accessed August 17, 2017 at https://www.bestbuy.com
-[3]	“SQLite Home Page,” SQLite Home Page. [Online]. Available: https://www.sqlite.org/. [Accessed: 19-Aug-2017].
-[4]	Java Linked List y Tutorials Point. Accessed August 18, 2017 at: https://www.tutorialspoint.com/java/java_linkedlist_class.htm
+- [1]	Villman Computers Philippines, Accessed August 17, 2017. at:  http://www.villman.com
+- [2]	Best Buy, Accessed August 17, 2017 at https://www.bestbuy.com
+- [3]	“SQLite Home Page,” SQLite Home Page. (Online). Available: https://www.sqlite.org/. (Accessed: 19-Aug-2017).
+- [4]	Java Linked List y Tutorials Point. Accessed August 18, 2017 at: https://www.tutorialspoint.com/java/java_linkedlist_class.htm
 
  ### VIII.            APPENDIX
  
 APP LICENSE
 
-Copyright (c) Ryan Ang, Manuel Parro, Paolo Wenceslao
-
-The following terms and conditions govern all access to and use of this software. By use of this software, you accept without limitation or alteration all terms and conditions stated herein.
-
-Permission to use this software such as (but not limited to) duplication, modification , publication, distribution, is granted provided the user’s party adheres to the following conditions:
-
-[1] This notice of copyright shall be included in the borrowed portion of this software.
-
-[2] Such party that wishes to partake in the aforementioned activities shall notify the copyright holders of the nature of usage.
-
-[3] The copyright holders are not to be held liable for any damages inflicted by the software on the borrower’s party.
-
-This User License Agreement is a legally binding contract between you; and the owner of this software, its developers: Ryan Ang, Manuel Parro, and Paolo Wenceslao.
+>Copyright (c) Ryan Ang, Manuel Parro, Paolo Wenceslao
+>
+>The following terms and conditions govern all access to and use of this software. By use of this software, you accept without >limitation or alteration all terms and conditions stated herein.>>
+>
+>Permission to use this software such as (but not limited to) duplication, modification , publication, distribution, is granted >provided the user’s party adheres to the following conditions:
+>
+>[1] This notice of copyright shall be included in the borrowed portion of this software.
+>
+>[2] Such party that wishes to partake in the aforementioned activities shall notify the copyright holders of the nature of >usage.
+>
+>[3] The copyright holders are not to be held liable for any damages inflicted by the software on the borrower’s party.
+>
+>This User License Agreement is a legally binding contract between you; and the owner of this software, its developers: Ryan >Ang, Manuel Parro, and Paolo Wenceslao.
